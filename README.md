@@ -120,6 +120,6 @@ J'ai trouvé que le plus simple est d'utiliser la documentation auto-générée 
 curl -X POST "[http://127.0.0.1:8000/analyze](http://127.0.0.1:8000/analyze)" \
 -H "Content-Type: application/json" \
 -d '{"url": "[https://www.reuters.com/business/finance/global-markets-wrapup-1-2022-09-21/](https://www.reuters.com/business/finance/global-markets-wrapup-1-2022-09-21/)"}'
-
-### Auteur
+```
+## Auteur
 Khalifa Ababacar DIALLO
